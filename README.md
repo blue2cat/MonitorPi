@@ -1,6 +1,7 @@
 <p>
     <h1 align="center"><b>MonitorPi</b></h1>
     <h2 align="center"> A physical monitoring system built on the Raspberry Pi </h2>
+    <p>This repository contains content from <a href="https://www.daycast.com/blog/monitorpi"> a post on the Daycast Blog</a></p>
 </p>
 
 <p align="center">
